@@ -16,7 +16,7 @@ logger = logging.getLogger(__name__)
 
 # Define your bot token
 
-TOKEN = 'your_bot_token_here'
+TOKEN = '6242918828:AAHH0M0GZC4rjF57bZIvbFMMaOCSSs0ZsHw'
 
 # Initialize the updater and dispatcher
 
